@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Demirhan Çelik
 - 👀 I’m interested in any variation of technology
-- 🌱 I’m currently a second year CS @ UW
+- 🌱 I’m currently a junior studying CS @ UW
 - 📫 You can reach me via mail demirhanceliik@gmail.com
 
 <!---
